@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\OrbiteLUCCCCCCC.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\OrbiteLUCCCCCCC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\OrbiteLUCCCCCCC.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\OrbiteLUCCCCCCC.AssemblyInfo.cs
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\OrbiteLUCCCCCCC.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\bin\Debug\net7.0\OrbiteLUCCCCCCC.exe
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\bin\Debug\net7.0\OrbiteLUCCCCCCC.deps.json
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\bin\Debug\net7.0\OrbiteLUCCCCCCC.runtimeconfig.json
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\bin\Debug\net7.0\OrbiteLUCCCCCCC.dll
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\bin\Debug\net7.0\OrbiteLUCCCCCCC.pdb
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\OrbiteLUCCCCCCC.dll
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\refint\OrbiteLUCCCCCCC.dll
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\OrbiteLUCCCCCCC.pdb
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\OrbiteLUCCCCCCC.genruntimeconfig.cache
+C:\Users\Windows\Desktop\OrbiteLUCCCCCCC\obj\Debug\net7.0\ref\OrbiteLUCCCCCCC.dll
